@@ -1,0 +1,571 @@
+"","muncode","mun_name","dist_name","distrito"
+"1",20011,"Calihualá","Silacayoápam",20001
+"2",20034,"Guadalupe de Ramírez","Silacayoápam",20001
+"3",20065,"Ixpantepec Nieves","Silacayoápam",20001
+"4",20081,"San Agustín Atenango","Silacayoápam",20001
+"5",20099,"San Andrés Tepetlapa","Silacayoápam",20001
+"6",20152,"San Francisco Tlapancingo","Silacayoápam",20001
+"7",20183,"San Juan Bautista Tlachichilco","Silacayoápam",20001
+"8",20186,"San Juan Cieneguilla","Silacayoápam",20001
+"9",20199,"San Juan Ihualtepec","Silacayoápam",20001
+"10",20230,"San Lorenzo Victoria","Silacayoápam",20001
+"11",20251,"San Mateo Nejápam","Silacayoápam",20001
+"12",20259,"San Miguel Ahuehuetitlán","Silacayoápam",20001
+"13",20290,"San Nicolás Hidalgo","Silacayoápam",20001
+"14",20376,"Santa Cruz de Bravo","Silacayoápam",20001
+"15",20461,"Santiago del Río","Silacayoápam",20001
+"16",20484,"Santiago Tamazola","Silacayoápam",20001
+"17",20501,"Santiago Yucuyachi","Silacayoápam",20001
+"18",20537,"Silacayoápam","Silacayoápam",20001
+"19",20567,"Zapotitlán Lagunas","Silacayoápam",20001
+"20",20004,"Asunción Cuyotepeji","Huajuapan",20002
+"21",20022,"Cosoltepec","Huajuapan",20002
+"22",20032,"Fresnillo de Trujano","Huajuapan",20002
+"23",20039,"Heroica Ciudad de Huajuapan de León","Huajuapan",20002
+"24",20055,"Mariscala de Juárez","Huajuapan",20002
+"25",20089,"San Andrés Dinicuiti","Huajuapan",20002
+"26",20160,"San Jerónimo Silacayoapilla","Huajuapan",20002
+"27",20164,"San Jorge Nuchita","Huajuapan",20002
+"28",20165,"San José Ayuquila","Huajuapan",20002
+"29",20181,"San Juan Bautista Suchitepec","Huajuapan",20002
+"30",20237,"San Marcos Arteaga","Huajuapan",20002
+"31",20245,"San Martín Zacatepec","Huajuapan",20002
+"32",20261,"San Miguel Amatitlán","Huajuapan",20002
+"33",20340,"San Pedro y San Pablo Tequixtepec","Huajuapan",20002
+"34",20352,"San Simón Zahuatlán","Huajuapan",20002
+"35",20373,"Santa Catarina Zapoquila","Huajuapan",20002
+"36",20381,"Santa Cruz Tacache de Mina","Huajuapan",20002
+"37",20400,"Santa María Camotlán","Huajuapan",20002
+"38",20455,"Santiago Ayuquililla","Huajuapan",20002
+"39",20456,"Santiago Cacaloxtepec","Huajuapan",20002
+"40",20459,"Santiago Chazumba","Huajuapan",20002
+"41",20462,"Santiago Huajolotitlán","Huajuapan",20002
+"42",20476,"Santiago Miltepec","Huajuapan",20002
+"43",20520,"Santo Domingo Tonalá","Huajuapan",20002
+"44",20524,"Santo Domingo Yodohino","Huajuapan",20002
+"45",20529,"Santos Reyes Yucuná","Huajuapan",20002
+"46",20549,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de la","Huajuapan",20002
+"47",20568,"Zapotitlán Palmas","Huajuapan",20002
+"48",20018,"Concepción Buenavista","Coixtlahuaca",20003
+"49",20129,"San Cristóbal Suchixtlahuaca","Coixtlahuaca",20003
+"50",20151,"San Francisco Teopan","Coixtlahuaca",20003
+"51",20176,"San Juan Bautista Coixtlahuaca","Coixtlahuaca",20003
+"52",20256,"San Mateo Tlapiltepec","Coixtlahuaca",20003
+"53",20283,"San Miguel Tequixtepec","Coixtlahuaca",20003
+"54",20287,"San Miguel Tulancingo","Coixtlahuaca",20003
+"55",20047,"Santa Magdalena Jicotlán","Coixtlahuaca",20003
+"56",20422,"Santa María Nativitas","Coixtlahuaca",20003
+"57",20464,"Santiago Ihuitlán Plumas","Coixtlahuaca",20003
+"58",20488,"Santiago Tepetlapa","Coixtlahuaca",20003
+"59",20548,"Tepelmeme Villa de Morelos","Coixtlahuaca",20003
+"60",20552,"Tlacotepec Plumas","Coixtlahuaca",20003
+"61",20029,"Eloxochitlán de Flores Magón","Teotitlán",20004
+"62",20040,"Huautepec","Teotitlán",20004
+"63",20041,"Huautla de Jiménez","Teotitlán",20004
+"64",20058,"Mazatlán Villa de Flores","Teotitlán",20004
+"65",20109,"San Antonio Nanahuatípam","Teotitlán",20004
+"66",20116,"San Bartolomé Ayautla","Teotitlán",20004
+"67",20142,"San Francisco Huehuetlán","Teotitlán",20004
+"68",20163,"San Jerónimo Tecóatl","Teotitlán",20004
+"69",20171,"San José Tenango","Teotitlán",20004
+"70",20187,"San Juan Coatzóspam","Teotitlán",20004
+"71",20206,"San Juan de los Cués","Teotitlán",20004
+"72",20228,"San Lorenzo Cuaunecuiltitla","Teotitlán",20004
+"73",20234,"San Lucas Zoquiápam","Teotitlán",20004
+"74",20244,"San Martín Toxpalán","Teotitlán",20004
+"75",20249,"San Mateo Yoloxochitlán","Teotitlán",20004
+"76",20322,"San Pedro Ocopetatillo","Teotitlán",20004
+"77",20354,"Santa Ana Ateixtlahuaca","Teotitlán",20004
+"78",20374,"Santa Cruz Acatepec","Teotitlán",20004
+"79",20406,"Santa María Chilchotla","Teotitlán",20004
+"80",20416,"Santa María Ixcatlán","Teotitlán",20004
+"81",20396,"Santa María la Asunción","Teotitlán",20004
+"82",20431,"Santa María Tecomavaca","Teotitlán",20004
+"83",20434,"Santa María Teopoxco","Teotitlán",20004
+"84",20490,"Santiago Texcalcingo","Teotitlán",20004
+"85",20545,"Teotitlán de Flores Magón","Teotitlán",20004
+"86",20027,"Chiquihuitlán de Benito Juárez","Cuicatlán",20005
+"87",20019,"Concepción Pápalo","Cuicatlán",20005
+"88",20024,"Cuyamecalco Villa de Zaragoza","Cuicatlán",20005
+"89",20098,"San Andrés Teotilálpam","Cuicatlán",20005
+"90",20139,"San Francisco Chapulapa","Cuicatlán",20005
+"91",20177,"San Juan Bautista Cuicatlán","Cuicatlán",20005
+"92",20182,"San Juan Bautista Tlacoatzintepec","Cuicatlán",20005
+"93",20220,"San Juan Tepeuxila","Cuicatlán",20005
+"94",20276,"San Miguel Santa Flor","Cuicatlán",20005
+"95",20311,"San Pedro Jaltepetongo","Cuicatlán",20005
+"96",20313,"San Pedro Jocotipac","Cuicatlán",20005
+"97",20326,"San Pedro Sochiápam","Cuicatlán",20005
+"98",20330,"San Pedro Teutila","Cuicatlán",20005
+"99",20355,"Santa Ana Cuauhtémoc","Cuicatlán",20005
+"100",20425,"Santa María Pápalo","Cuicatlán",20005
+"101",20436,"Santa María Texcatitlán","Cuicatlán",20005
+"102",20438,"Santa María Tlalixtac","Cuicatlán",20005
+"103",20478,"Santiago Nacaltepec","Cuicatlán",20005
+"104",20527,"Santos Reyes Pápalo","Cuicatlán",20005
+"105",20558,"Valerio Trujano","Cuicatlán",20005
+"106",20002,"Acatlán de Pérez Figueroa","Tuxtepec",20006
+"107",20009,"Ayotzintepec","Tuxtepec",20006
+"108",20021,"Cosolapa","Tuxtepec",20006
+"109",20044,"Loma Bonita","Tuxtepec",20006
+"110",20134,"San Felipe Jalapa de Díaz","Tuxtepec",20006
+"111",20136,"San Felipe Usila","Tuxtepec",20006
+"112",20166,"San José Chiltepec","Tuxtepec",20006
+"113",20169,"San José Independencia","Tuxtepec",20006
+"114",20184,"San Juan Bautista Tuxtepec","Tuxtepec",20006
+"115",20559,"San Juan Bautista Valle Nacional","Tuxtepec",20006
+"116",20232,"San Lucas Ojitlán","Tuxtepec",20006
+"117",20278,"San Miguel Soyaltepec","Tuxtepec",20006
+"118",20309,"San Pedro Ixcatlán","Tuxtepec",20006
+"119",20417,"Santa María Jacatepec","Tuxtepec",20006
+"120",20189,"San Juan Comaltepec","Choápam",20007
+"121",20205,"San Juan Lalana","Choápam",20007
+"122",20212,"San Juan Petlapa","Choápam",20007
+"123",20460,"Santiago Choápam","Choápam",20007
+"124",20468,"Santiago Jocotepec","Choápam",20007
+"125",20498,"Santiago Yaveo","Choápam",20007
+"126",20016,"Coicoyán de las Flores","Juxtlahuaca",20008
+"127",20208,"San Juan Mixtepec","Juxtlahuaca",20008
+"128",20242,"San Martín Peras","Juxtlahuaca",20008
+"129",20286,"San Miguel Tlacotepec","Juxtlahuaca",20008
+"130",20348,"San Sebastián Tecomaxtlahuaca","Juxtlahuaca",20008
+"131",20469,"Santiago Juxtlahuaca","Juxtlahuaca",20008
+"132",20528,"Santos Reyes Tepejillo","Juxtlahuaca",20008
+"133",20556,"La Trinidad Vista Hermosa","Teposcolula",20009
+"134",20093,"San Andrés Lagunas","Teposcolula",20009
+"135",20105,"San Antonino Monte Verde","Teposcolula",20009
+"136",20106,"San Antonio Acutla","Teposcolula",20009
+"137",20121,"San Bartolo Soyaltepec","Teposcolula",20009
+"138",20221,"San Juan Teposcolula","Teposcolula",20009
+"139",20321,"San Pedro Nopala","Teposcolula",20009
+"140",20332,"San Pedro Topiltepec","Teposcolula",20009
+"141",20339,"San Pedro y San Pablo Teposcolula","Teposcolula",20009
+"142",20341,"San Pedro Yucunama","Teposcolula",20009
+"143",20346,"San Sebastián Nicananduta","Teposcolula",20009
+"144",20536,"San Vicente Nuñú","Teposcolula",20009
+"145",20423,"Santa María Nduayaco","Teposcolula",20009
+"146",20479,"Santiago Nejapilla","Teposcolula",20009
+"147",20499,"Santiago Yolomécatl","Teposcolula",20009
+"148",20518,"Santo Domingo Tlatayápam","Teposcolula",20009
+"149",20521,"Santo Domingo Tonaltepec","Teposcolula",20009
+"150",20547,"Teotongo","Teposcolula",20009
+"151",20405,"Villa de Chilapa de Díaz","Teposcolula",20009
+"152",20540,"Villa de Tamazulápam del Progreso","Teposcolula",20009
+"153",20486,"Villa Tejúpam de la Unión","Teposcolula",20009
+"154",20006,"Asunción Nochixtlán","Nochixtlán",20010
+"155",20046,"Magdalena Jaltepec","Nochixtlán",20010
+"156",20562,"Magdalena Yodocono de Porfirio Díaz","Nochixtlán",20010
+"157",20054,"Magdalena Zahuatlán","Nochixtlán",20010
+"158",20094,"San Andrés Nuxiño","Nochixtlán",20010
+"159",20096,"San Andrés Sinaxtla","Nochixtlán",20010
+"160",20140,"San Francisco Chindúa","Nochixtlán",20010
+"161",20144,"San Francisco Jaltepetongo","Nochixtlán",20010
+"162",20147,"San Francisco Nuxaño","Nochixtlán",20010
+"163",20195,"San Juan Diuxi","Nochixtlán",20010
+"164",20215,"San Juan Sayultepec","Nochixtlán",20010
+"165",20217,"San Juan Tamazola","Nochixtlán",20010
+"166",20224,"San Juan Yucuita","Nochixtlán",20010
+"167",20250,"San Mateo Etlatongo","Nochixtlán",20010
+"168",20255,"San Mateo Sindihui","Nochixtlán",20010
+"169",20264,"San Miguel Chicahua","Nochixtlán",20010
+"170",20270,"San Miguel Huautla","Nochixtlán",20010
+"171",20274,"San Miguel Piedras","Nochixtlán",20010
+"172",20281,"San Miguel Tecomatlán","Nochixtlán",20010
+"173",20304,"San Pedro Coxcaltepec Cántaros","Nochixtlán",20010
+"174",20329,"San Pedro Teozacoalco","Nochixtlán",20010
+"175",20331,"San Pedro Tidaá","Nochixtlán",20010
+"176",20569,"Santa Inés de Zaragoza","Nochixtlán",20010
+"177",20395,"Santa María Apazco","Nochixtlán",20010
+"178",20404,"Santa María Chachoápam","Nochixtlán",20010
+"179",20451,"Santiago Apoala","Nochixtlán",20010
+"180",20463,"Santiago Huauclilla","Nochixtlán",20010
+"181",20492,"Santiago Tilantongo","Nochixtlán",20010
+"182",20493,"Santiago Tillo","Nochixtlán",20010
+"183",20511,"Santo Domingo Nuxaá","Nochixtlán",20010
+"184",20523,"Santo Domingo Yanhuitlán","Nochixtlán",20010
+"185",20564,"Yutanduchi de Guerrero","Nochixtlán",20010
+"186",20033,"Guadalupe Etla","Etla",20011
+"187",20045,"Magdalena Apasco","Etla",20011
+"188",20063,"Nazareno Etla","Etla",20011
+"189",20077,"Reyes Etla","Etla",20011
+"190",20084,"San Agustín Etla","Etla",20011
+"191",20102,"San Andrés Zautla","Etla",20011
+"192",20135,"San Felipe Tejalápam","Etla",20011
+"193",20150,"San Francisco Telixtlahuaca","Etla",20011
+"194",20161,"San Jerónimo Sosola","Etla",20011
+"195",20175,"San Juan Bautista Atatlahuca","Etla",20011
+"196",20178,"San Juan Bautista Guelache","Etla",20011
+"197",20179,"San Juan Bautista Jayacatlán","Etla",20011
+"198",20193,"San Juan del Estado","Etla",20011
+"199",20227,"San Lorenzo Cacaotepec","Etla",20011
+"200",20293,"San Pablo Etla","Etla",20011
+"201",20294,"San Pablo Huitzo","Etla",20011
+"202",20426,"Santa María Peñoles","Etla",20011
+"203",20483,"Santiago Suchilquitongo","Etla",20011
+"204",20487,"Santiago Tenango","Etla",20011
+"205",20494,"Santiago Tlazoyaltepec","Etla",20011
+"206",20531,"Santo Tomás Mazaltepec","Etla",20011
+"207",20539,"Soledad Etla","Etla",20011
+"208",20338,"Villa de Etla","Etla",20011
+"209",20001,"Abejones","Benemérito Distrito de Ixtlán de Juárez",20012
+"210",20247,"Capulálpam de Méndez","Benemérito Distrito de Ixtlán de Juárez",20012
+"211",20035,"Guelatao de Juárez","Benemérito Distrito de Ixtlán de Juárez",20012
+"212",20042,"Ixtlán de Juárez","Benemérito Distrito de Ixtlán de Juárez",20012
+"213",20062,"Natividad","Benemérito Distrito de Ixtlán de Juárez",20012
+"214",20504,"Nuevo Zoquiápam","Benemérito Distrito de Ixtlán de Juárez",20012
+"215",20173,"San Juan Atepec","Benemérito Distrito de Ixtlán de Juárez",20012
+"216",20191,"San Juan Chicomezúchil","Benemérito Distrito de Ixtlán de Juárez",20012
+"217",20196,"San Juan Evangelista Analco","Benemérito Distrito de Ixtlán de Juárez",20012
+"218",20214,"San Juan Quiotepec","Benemérito Distrito de Ixtlán de Juárez",20012
+"219",20260,"San Miguel Aloápam","Benemérito Distrito de Ixtlán de Juárez",20012
+"220",20262,"San Miguel Amatlán","Benemérito Distrito de Ixtlán de Juárez",20012
+"221",20267,"San Miguel del Río","Benemérito Distrito de Ixtlán de Juárez",20012
+"222",20288,"San Miguel Yotao","Benemérito Distrito de Ixtlán de Juárez",20012
+"223",20296,"San Pablo Macuiltianguis","Benemérito Distrito de Ixtlán de Juárez",20012
+"224",20335,"San Pedro Yaneri","Benemérito Distrito de Ixtlán de Juárez",20012
+"225",20336,"San Pedro Yólox","Benemérito Distrito de Ixtlán de Juárez",20012
+"226",20359,"Santa Ana Yareni","Benemérito Distrito de Ixtlán de Juárez",20012
+"227",20363,"Santa Catarina Ixtepeji","Benemérito Distrito de Ixtlán de Juárez",20012
+"228",20365,"Santa Catarina Lachatao","Benemérito Distrito de Ixtlán de Juárez",20012
+"229",20419,"Santa María Jaltianguis","Benemérito Distrito de Ixtlán de Juárez",20012
+"230",20443,"Santa María Yavesía","Benemérito Distrito de Ixtlán de Juárez",20012
+"231",20458,"Santiago Comaltepec","Benemérito Distrito de Ixtlán de Juárez",20012
+"232",20473,"Santiago Laxopa","Benemérito Distrito de Ixtlán de Juárez",20012
+"233",20496,"Santiago Xiacuí","Benemérito Distrito de Ixtlán de Juárez",20012
+"234",20544,"Teococuilco de Marcos Pérez","Benemérito Distrito de Ixtlán de Juárez",20012
+"235",20097,"San Andrés Solaga","Villa Alta",20013
+"236",20100,"San Andrés Yaá","Villa Alta",20013
+"237",20114,"San Baltazar Yatzachi el Bajo","Villa Alta",20013
+"238",20120,"San Bartolomé Zoogocho","Villa Alta",20013
+"239",20128,"San Cristóbal Lachirioag","Villa Alta",20013
+"240",20138,"San Francisco Cajonos","Villa Alta",20013
+"241",20156,"San Ildefonso Villa Alta","Villa Alta",20013
+"242",20201,"San Juan Juquila Vijanos","Villa Alta",20013
+"243",20216,"San Juan Tabaá","Villa Alta",20013
+"244",20222,"San Juan Yaeé","Villa Alta",20013
+"245",20223,"San Juan Yatzona","Villa Alta",20013
+"246",20246,"San Mateo Cajonos","Villa Alta",20013
+"247",20257,"San Melchor Betaza","Villa Alta",20013
+"248",20299,"San Pablo Yaganiza","Villa Alta",20013
+"249",20303,"San Pedro Cajonos","Villa Alta",20013
+"250",20432,"Santa María Temaxcalapa","Villa Alta",20013
+"251",20442,"Santa María Yalina","Villa Alta",20013
+"252",20457,"Santiago Camotlán","Villa Alta",20013
+"253",20471,"Santiago Lalopa","Villa Alta",20013
+"254",20503,"Santiago Zoochila","Villa Alta",20013
+"255",20514,"Santo Domingo Roayaga","Villa Alta",20013
+"256",20522,"Santo Domingo Xagacía","Villa Alta",20013
+"257",20541,"Tanetze de Zaragoza","Villa Alta",20013
+"258",20038,"Villa Hidalgo","Villa Alta",20013
+"259",20280,"Villa Talea de Castro","Villa Alta",20013
+"260",20003,"Asunción Cacalotepec","Mixe",20014
+"261",20060,"Mixistlán de la  Reforma","Mixe",20014
+"262",20190,"San Juan Cotzocón","Mixe",20014
+"263",20207,"San Juan Mazatlán","Mixe",20014
+"264",20231,"San Lucas Camotlán","Mixe",20014
+"265",20275,"San Miguel Quetzaltepec","Mixe",20014
+"266",20323,"San Pedro Ocotepec","Mixe",20014
+"267",20337,"San Pedro y San Pablo Ayutla","Mixe",20014
+"268",20394,"Santa María Alotepec","Mixe",20014
+"269",20435,"Santa María Tepantlali","Mixe",20014
+"270",20437,"Santa María Tlahuitoltepec","Mixe",20014
+"271",20454,"Santiago Atitlán","Mixe",20014
+"272",20465,"Santiago Ixcuintepec","Mixe",20014
+"273",20502,"Santiago Zacatepec","Mixe",20014
+"274",20517,"Santo Domingo Tepuxtepec","Mixe",20014
+"275",20031,"Tamazulápam del Espíritu Santo","Mixe",20014
+"276",20554,"Totontepec Villa de Morelos","Mixe",20014
+"277",20020,"Constancia del Rosario","Putla",20015
+"278",20076,"La Reforma","Putla",20015
+"279",20037,"Mesones Hidalgo","Putla",20015
+"280",20073,"Putla Villa de Guerrero","Putla",20015
+"281",20088,"San Andrés Cabecera Nueva","Putla",20015
+"282",20300,"San Pedro Amuzgos","Putla",20015
+"283",20377,"Santa Cruz Itundujia","Putla",20015
+"284",20392,"Santa Lucía Monteverde","Putla",20015
+"285",20415,"Santa María Ipalapa","Putla",20015
+"286",20447,"Santa María Zacatepec","Putla",20015
+"287",20026,"Chalcatongo de Hidalgo","Tlaxiaco",20016
+"288",20397,"Heroica Ciudad de Tlaxiaco","Tlaxiaco",20016
+"289",20050,"Magdalena Peñasco","Tlaxiaco",20016
+"290",20086,"San Agustín Tlacotepec","Tlaxiaco",20016
+"291",20110,"San Antonio Sinicahua","Tlaxiaco",20016
+"292",20119,"San Bartolomé Yucuañe","Tlaxiaco",20016
+"293",20127,"San Cristóbal Amoltepec","Tlaxiaco",20016
+"294",20133,"San Esteban Atatlahuca","Tlaxiaco",20016
+"295",20172,"San Juan Achiutla","Tlaxiaco",20016
+"296",20210,"San Juan Ñumí","Tlaxiaco",20016
+"297",20218,"San Juan Teita","Tlaxiaco",20016
+"298",20239,"San Martín Huamelúlpam","Tlaxiaco",20016
+"299",20240,"San Martín Itunyoso","Tlaxiaco",20016
+"300",20252,"San Mateo Peñasco","Tlaxiaco",20016
+"301",20258,"San Miguel Achiutla","Tlaxiaco",20016
+"302",20269,"San Miguel el Grande","Tlaxiaco",20016
+"303",20297,"San Pablo Tijaltepec","Tlaxiaco",20016
+"304",20317,"San Pedro Mártir Yucuxaco","Tlaxiaco",20016
+"305",20320,"San Pedro Molinos","Tlaxiaco",20016
+"306",20370,"Santa Catarina Tayata","Tlaxiaco",20016
+"307",20371,"Santa Catarina Ticuá","Tlaxiaco",20016
+"308",20372,"Santa Catarina Yosonotú","Tlaxiaco",20016
+"309",20379,"Santa Cruz Nundaco","Tlaxiaco",20016
+"310",20382,"Santa Cruz Tacahua","Tlaxiaco",20016
+"311",20383,"Santa Cruz Tayata","Tlaxiaco",20016
+"312",20408,"Santa María del Rosario","Tlaxiaco",20016
+"313",20430,"Santa María Tataltepec","Tlaxiaco",20016
+"314",20444,"Santa María Yolotepec","Tlaxiaco",20016
+"315",20445,"Santa María Yosoyúa","Tlaxiaco",20016
+"316",20446,"Santa María Yucuhiti","Tlaxiaco",20016
+"317",20480,"Santiago Nundiche","Tlaxiaco",20016
+"318",20481,"Santiago Nuyoó","Tlaxiaco",20016
+"319",20500,"Santiago Yosondúa","Tlaxiaco",20016
+"320",20510,"Santo Domingo Ixcatlán","Tlaxiaco",20016
+"321",20532,"Santo Tomás Ocotepec","Tlaxiaco",20016
+"322",20108,"San Antonio Huitepec","Zaachila",20017
+"323",20273,"San Miguel Peras","Zaachila",20017
+"324",20292,"San Pablo Cuatro Venados","Zaachila",20017
+"325",20388,"Santa Inés del Monte","Zaachila",20017
+"326",20555,"Trinidad Zaachila","Zaachila",20017
+"327",20565,"Villa de Zaachila","Zaachila",20017
+"328",20398,"Ayoquezco de Aldama","Zimatlán",20018
+"329",20013,"Ciénega de Zimatlán","Zimatlán",20018
+"330",20048,"Magdalena Mixtepec","Zimatlán",20018
+"331",20104,"San Antonino El Alto","Zimatlán",20018
+"332",20123,"San Bernardo Mixtepec","Zimatlán",20018
+"333",20271,"San Miguel Mixtepec","Zimatlán",20018
+"334",20295,"San Pablo Huixtepec","Zimatlán",20018
+"335",20358,"Santa Ana Tlapacoyan","Zimatlán",20018
+"336",20369,"Santa Catarina Quiané","Zimatlán",20018
+"337",20378,"Santa Cruz Mixtepec","Zimatlán",20018
+"338",20387,"Santa Gertrudis","Zimatlán",20018
+"339",20389,"Santa Inés Yatzeche","Zimatlán",20018
+"340",20570,"Zimatlán de Álvarez","Zimatlán",20018
+"341",20174,"Ánimas Trujano","Centro",20019
+"342",20023,"Cuilápam de Guerrero","Centro",20019
+"343",20067,"Oaxaca de Juárez","Centro",20019
+"344",20083,"San Agustín de las Juntas","Centro",20019
+"345",20087,"San Agustín Yatareni","Centro",20019
+"346",20091,"San Andrés Huayápam","Centro",20019
+"347",20092,"San Andrés Ixtlahuaca","Centro",20019
+"348",20107,"San Antonio de la  Cal","Centro",20019
+"349",20115,"San Bartolo Coyotepec","Centro",20019
+"350",20157,"San Jacinto Amilpas","Centro",20019
+"351",20310,"San Pedro Ixtlahuaca","Centro",20019
+"352",20342,"San Raymundo Jalpan","Centro",20019
+"353",20350,"San Sebastián Tutla","Centro",20019
+"354",20375,"Santa Cruz Amilpas","Centro",20019
+"355",20385,"Santa Cruz Xoxocotlán","Centro",20019
+"356",20390,"Santa Lucía del Camino","Centro",20019
+"357",20399,"Santa María Atzompa","Centro",20019
+"358",20403,"Santa María Coyotepec","Centro",20019
+"359",20409,"Santa María del Tule","Centro",20019
+"360",20519,"Santo Domingo Tomaltepec","Centro",20019
+"361",20553,"Tlalixtac de Cabrera","Centro",20019
+"362",20051,"Magdalena Teitipac","Tlacolula",20020
+"363",20078,"Rojas de Cuauhtémoc","Tlacolula",20020
+"364",20118,"San Bartolomé Quialana","Tlacolula",20020
+"365",20131,"San Dionisio Ocotepec","Tlacolula",20020
+"366",20145,"San Francisco Lachigoló","Tlacolula",20020
+"367",20550,"San Jerónimo Tlacochahuaya","Tlacolula",20020
+"368",20194,"San Juan del Río","Tlacolula",20020
+"369",20197,"San Juan Guelavía","Tlacolula",20020
+"370",20219,"San Juan Teitipac","Tlacolula",20020
+"371",20226,"San Lorenzo Albarradas","Tlacolula",20020
+"372",20233,"San Lucas Quiaviní","Tlacolula",20020
+"373",20298,"San Pablo Villa de Mitla","Tlacolula",20020
+"374",20325,"San Pedro Quiatoni","Tlacolula",20020
+"375",20333,"San Pedro Totolápam","Tlacolula",20020
+"376",20343,"San Sebastián Abasolo","Tlacolula",20020
+"377",20349,"San Sebastián Teitipac","Tlacolula",20020
+"378",20356,"Santa Ana del Valle","Tlacolula",20020
+"379",20380,"Santa Cruz Papalutla","Tlacolula",20020
+"380",20411,"Santa María Guelacé","Tlacolula",20020
+"381",20449,"Santa María Zoquitlán","Tlacolula",20020
+"382",20475,"Santiago Matatlán","Tlacolula",20020
+"383",20506,"Santo Domingo Albarradas","Tlacolula",20020
+"384",20546,"Teotitlán del Valle","Tlacolula",20020
+"385",20551,"Tlacolula de Matamoros","Tlacolula",20020
+"386",20560,"Villa Díaz Ordaz","Tlacolula",20020
+"387",20056,"Mártires de Tacubaya","Jamiltepec",20021
+"388",20070,"Pinotepa de Don Luis","Jamiltepec",20021
+"389",20082,"San Agustín Chayuco","Jamiltepec",20021
+"390",20090,"San Andrés Huaxpaltepec","Jamiltepec",20021
+"391",20111,"San Antonio Tepetlapa","Jamiltepec",20021
+"392",20168,"San José Estancia Grande","Jamiltepec",20021
+"393",20180,"San Juan Bautista lo de Soto","Jamiltepec",20021
+"394",20185,"San Juan Cacahuatepec","Jamiltepec",20021
+"395",20188,"San Juan Colorado","Jamiltepec",20021
+"396",20225,"San Lorenzo","Jamiltepec",20021
+"397",20285,"San Miguel Tlacamama","Jamiltepec",20021
+"398",20302,"San Pedro Atoyac","Jamiltepec",20021
+"399",20312,"San Pedro Jicayán","Jamiltepec",20021
+"400",20345,"San Sebastián Ixcapa","Jamiltepec",20021
+"401",20367,"Santa Catarina Mechoacán","Jamiltepec",20021
+"402",20402,"Santa María Cortijo","Jamiltepec",20021
+"403",20414,"Santa María Huazolotitlán","Jamiltepec",20021
+"404",20466,"Santiago Ixtayutla","Jamiltepec",20021
+"405",20467,"Santiago Jamiltepec","Jamiltepec",20021
+"406",20474,"Santiago Llano Grande","Jamiltepec",20021
+"407",20482,"Santiago Pinotepa Nacional","Jamiltepec",20021
+"408",20485,"Santiago Tapextla","Jamiltepec",20021
+"409",20489,"Santiago Tetepec","Jamiltepec",20021
+"410",20507,"Santo Domingo Armenta","Jamiltepec",20021
+"411",20153,"San Gabriel Mixtepec","Juquila",20022
+"412",20202,"San Juan Lachao","Juquila",20022
+"413",20213,"San Juan Quiahije","Juquila",20022
+"414",20272,"San Miguel Panixtlahuaca","Juquila",20022
+"415",20314,"San Pedro Juchatengo","Juquila",20022
+"416",20318,"San Pedro Mixtepec","Juquila",20022
+"417",20364,"Santa Catarina Juquila","Juquila",20022
+"418",20433,"Santa María Temaxcaltepec","Juquila",20022
+"419",20497,"Santiago Yaitepec","Juquila",20022
+"420",20526,"Santos Reyes Nopala","Juquila",20022
+"421",20543,"Tataltepec de Valdés","Juquila",20022
+"422",20334,"Villa de Tututepec de Melchor Ocampo","Juquila",20022
+"423",20137,"San Francisco Cahuacuá","Sola de Vega",20023
+"424",20149,"San Francisco Sola","Sola de Vega",20023
+"425",20155,"San Ildefonso Sola","Sola de Vega",20023
+"426",20158,"San Jacinto Tlacotepec","Sola de Vega",20023
+"427",20229,"San Lorenzo Texmelúcan","Sola de Vega",20023
+"428",20535,"San Vicente Lachixío","Sola de Vega",20023
+"429",20386,"Santa Cruz Zenzontepec","Sola de Vega",20023
+"430",20420,"Santa María Lachixío","Sola de Vega",20023
+"431",20429,"Santa María Sola","Sola de Vega",20023
+"432",20448,"Santa María Zaniza","Sola de Vega",20023
+"433",20450,"Santiago Amoltepec","Sola de Vega",20023
+"434",20477,"Santiago Minas","Sola de Vega",20023
+"435",20491,"Santiago Textitlán","Sola de Vega",20023
+"436",20516,"Santo Domingo Teojomulco","Sola de Vega",20023
+"437",20277,"Villa Sola de Vega","Sola de Vega",20023
+"438",20566,"San Mateo Yucutindó","Sola de Vega",20023
+"439",20015,"Coatecas Altas","Ejutla",20024
+"440",20028,"Heroica Ciudad de Ejutla de Crespo","Ejutla",20024
+"441",20017,"La Compañía","Ejutla",20024
+"442",20069,"La Pe","Ejutla",20024
+"443",20080,"San Agustín Amatengo","Ejutla",20024
+"444",20101,"San Andrés Zabache","Ejutla",20024
+"445",20203,"San Juan Lachigalla","Ejutla",20024
+"446",20238,"San Martín de los Cansecos","Ejutla",20024
+"447",20241,"San Martín Lachilá","Ejutla",20024
+"448",20268,"San Miguel Ejutla","Ejutla",20024
+"449",20534,"San Vicente Coatlán","Ejutla",20024
+"450",20542,"Taniche","Ejutla",20024
+"451",20563,"Yogana","Ejutla",20024
+"452",20007,"Asunción Ocotlán","Ocotlán",20025
+"453",20049,"Magdalena Ocotlán","Ocotlán",20025
+"454",20068,"Ocotlán de Morelos","Ocotlán",20025
+"455",20103,"San Antonino Castillo Velasco","Ocotlán",20025
+"456",20112,"San Baltazar Chichicápam","Ocotlán",20025
+"457",20132,"San Dionisio Ocotlán","Ocotlán",20025
+"458",20162,"San Jerónimo Taviche","Ocotlán",20025
+"459",20072,"San José del Progreso","Ocotlán",20025
+"460",20192,"San Juan Chilateca","Ocotlán",20025
+"461",20243,"San Martín Tilcajete","Ocotlán",20025
+"462",20284,"San Miguel Tilquiápam","Ocotlán",20025
+"463",20301,"San Pedro Apóstol","Ocotlán",20025
+"464",20315,"San Pedro Mártir","Ocotlán",20025
+"465",20328,"San Pedro Taviche","Ocotlán",20025
+"466",20360,"Santa Ana Zegache","Ocotlán",20025
+"467",20368,"Santa Catarina Minas","Ocotlán",20025
+"468",20393,"Santa Lucía Ocotlán","Ocotlán",20025
+"469",20452,"Santiago Apóstol","Ocotlán",20025
+"470",20530,"Santo Tomás Jalieza","Ocotlán",20025
+"471",20561,"Yaxe","Ocotlán",20025
+"472",20059,"Miahuatlán de Porfirio Díaz","Miahuatlán",20026
+"473",20061,"Monjas","Miahuatlán",20026
+"474",20095,"San Andrés Paxtlán","Miahuatlán",20026
+"475",20126,"San Cristóbal Amatlán","Miahuatlán",20026
+"476",20146,"San Francisco Logueche","Miahuatlán",20026
+"477",20148,"San Francisco Ozolotepec","Miahuatlán",20026
+"478",20154,"San Ildefonso Amatlán","Miahuatlán",20026
+"479",20159,"San Jerónimo Coatlán","Miahuatlán",20026
+"480",20167,"San José del Peñasco","Miahuatlán",20026
+"481",20170,"San José Lachiguiri","Miahuatlán",20026
+"482",20209,"San Juan Mixtepec","Miahuatlán",20026
+"483",20211,"San Juan Ozolotepec","Miahuatlán",20026
+"484",20235,"San Luis Amatlán","Miahuatlán",20026
+"485",20236,"San Marcial Ozolotepec","Miahuatlán",20026
+"486",20254,"San Mateo Río Hondo","Miahuatlán",20026
+"487",20263,"San Miguel Coatlán","Miahuatlán",20026
+"488",20279,"San Miguel Suchixtepec","Miahuatlán",20026
+"489",20289,"San Nicolás","Miahuatlán",20026
+"490",20291,"San Pablo Coatlán","Miahuatlán",20026
+"491",20319,"San Pedro Mixtepec","Miahuatlán",20026
+"492",20344,"San Sebastián Coatlán","Miahuatlán",20026
+"493",20347,"San Sebastián Río Hondo","Miahuatlán",20026
+"494",20351,"San Simón Almolongas","Miahuatlán",20026
+"495",20353,"Santa Ana","Miahuatlán",20026
+"496",20362,"Santa Catarina Cuixtla","Miahuatlán",20026
+"497",20384,"Santa Cruz Xitla","Miahuatlán",20026
+"498",20391,"Santa Lucía Miahuatlán","Miahuatlán",20026
+"499",20424,"Santa María Ozolotepec","Miahuatlán",20026
+"500",20495,"Santiago Xanica","Miahuatlán",20026
+"501",20512,"Santo Domingo Ozolotepec","Miahuatlán",20026
+"502",20533,"Santo Tomás Tamazulapan","Miahuatlán",20026
+"503",20538,"Sitio de Xitlapehua","Miahuatlán",20026
+"504",20008,"Asunción Tlacolulita","Yautepec",20027
+"505",20064,"Nejapa de Madero","Yautepec",20027
+"506",20122,"San Bartolo Yautepec","Yautepec",20027
+"507",20125,"San Carlos Yautepec","Yautepec",20027
+"508",20200,"San Juan Juquila Mixes","Yautepec",20027
+"509",20204,"San Juan Lajarcia","Yautepec",20027
+"510",20316,"San Pedro Mártir Quiechapa","Yautepec",20027
+"511",20357,"Santa Ana Tavela","Yautepec",20027
+"512",20361,"Santa Catalina Quierí","Yautepec",20027
+"513",20074,"Santa Catarina Quioquitani","Yautepec",20027
+"514",20410,"Santa María Ecatepec","Yautepec",20027
+"515",20428,"Santa María Quiegolani","Yautepec",20027
+"516",20036,"Guevea de Humboldt","Tehuantepec",20028
+"517",20052,"Magdalena Tequisistlán","Tehuantepec",20028
+"518",20053,"Magdalena Tlacotepec","Tehuantepec",20028
+"519",20079,"Salina Cruz","Tehuantepec",20028
+"520",20124,"San Blas Atempa","Tehuantepec",20028
+"521",20248,"San Mateo del Mar","Tehuantepec",20028
+"522",20282,"San Miguel Tenango","Tehuantepec",20028
+"523",20305,"San Pedro Comitancillo","Tehuantepec",20028
+"524",20307,"San Pedro Huamelula","Tehuantepec",20028
+"525",20308,"San Pedro Huilotepec","Tehuantepec",20028
+"526",20412,"Santa María Guienagati","Tehuantepec",20028
+"527",20418,"Santa María Jalapa del Marqués","Tehuantepec",20028
+"528",20421,"Santa María Mixtequilla","Tehuantepec",20028
+"529",20440,"Santa María Totolapilla","Tehuantepec",20028
+"530",20453,"Santiago Astata","Tehuantepec",20028
+"531",20470,"Santiago Lachiguiri","Tehuantepec",20028
+"532",20472,"Santiago Laollaga","Tehuantepec",20028
+"533",20508,"Santo Domingo Chihuitán","Tehuantepec",20028
+"534",20515,"Santo Domingo Tehuantepec","Tehuantepec",20028
+"535",20005,"Asunción Ixtaltepec","Juchitán",20029
+"536",20025,"Chahuites","Juchitán",20029
+"537",20014,"Ciudad Ixtepec","Juchitán",20029
+"538",20010,"El Barrio de la Soledad","Juchitán",20029
+"539",20030,"El Espinal","Juchitán",20029
+"540",20043,"Heroica Ciudad de Juchitán de Zaragoza","Juchitán",20029
+"541",20057,"Matías Romero Avendaño","Juchitán",20029
+"542",20075,"Reforma de Pineda","Juchitán",20029
+"543",20130,"San Dionisio del Mar","Juchitán",20029
+"544",20141,"San Francisco del Mar","Juchitán",20029
+"545",20143,"San Francisco Ixhuatán","Juchitán",20029
+"546",20198,"San Juan Guichicovi","Juchitán",20029
+"547",20265,"San Miguel Chimalapa","Juchitán",20029
+"548",20327,"San Pedro Tapanatepec","Juchitán",20029
+"549",20407,"Santa María Chimalapa","Juchitán",20029
+"550",20427,"Santa María Petapa","Juchitán",20029
+"551",20441,"Santa María Xadani","Juchitán",20029
+"552",20066,"Santiago Niltepec","Juchitán",20029
+"553",20505,"Santo Domingo Ingenio","Juchitán",20029
+"554",20513,"Santo Domingo Petapa","Juchitán",20029
+"555",20525,"Santo Domingo Zanatepec","Juchitán",20029
+"556",20557,"Unión Hidalgo","Juchitán",20029
+"557",20012,"Candelaria Loxicha","Pochutla",20030
+"558",20071,"Pluma Hidalgo","Pochutla",20030
+"559",20085,"San Agustín Loxicha","Pochutla",20030
+"560",20113,"San Baltazar Loxicha","Pochutla",20030
+"561",20117,"San Bartolomé Loxicha","Pochutla",20030
+"562",20253,"San Mateo Piñas","Pochutla",20030
+"563",20266,"San Miguel del Puerto","Pochutla",20030
+"564",20306,"San Pedro el Alto","Pochutla",20030
+"565",20324,"San Pedro Pochutla","Pochutla",20030
+"566",20366,"Santa Catarina Loxicha","Pochutla",20030
+"567",20401,"Santa María Colotepec","Pochutla",20030
+"568",20413,"Santa María Huatulco","Pochutla",20030
+"569",20439,"Santa María Tonameca","Pochutla",20030
+"570",20509,"Santo Domingo de Morelos","Pochutla",20030
